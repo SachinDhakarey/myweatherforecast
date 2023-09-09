@@ -1,6 +1,5 @@
 # weather.app
-# Welcome to the Weather App by @sachindhakarey ! This application provides users with up-to-date weather information for any location worldwide
-# Whether you're planning a trip or just want to know the current weather conditions in your area, our app has you covered.
+Welcome to the Weather App by @sachindhakarey ! This application provides users with up-to-date weather information for any location worldwide. Whether you're planning a trip or just want to know the current weather conditions in your area, our app has you covered.
 
 # Features
 1) Current Weather: Get real-time weather information for any location.
